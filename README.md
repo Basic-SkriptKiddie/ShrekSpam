@@ -1,7 +1,7 @@
 
 # spams all star
 # must have python installed                                                                                                                           
-how to use:
+how to use:                                                                                                                                                  
 1 - open cmd.exe type: py pip -m install pyautogui                                                                                                           
 2 - in cmd type : cd (file location) e.g cd desktop, cd downloads                                                                                            
 3 - in cmd.exe py shrek.py                                                                                                                                  
