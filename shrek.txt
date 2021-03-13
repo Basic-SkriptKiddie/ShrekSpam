@@ -57,8 +57,6 @@ That's the way I like it and I'll never get bored
 
 Hey, now, you're an all-star
 
-{Shouting}
-
 Get your game on, go play
 
 Hey, now You're a rock star
@@ -69,13 +67,9 @@ And all that glitters is gold
 
 Only shootin' stars break the mold
 
-{Belches}
-
 Go!
 
 Go!
-
-{Record Scratching}
 
 Go. Go.Go.
 
@@ -90,6 +84,12 @@ Get the show on, get paid
 And all that glitters is gold
 
 Only shootin' stars break the mold
-
-END of shrekspam.py hope you enjoyed 
+.
+.
+.
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!
+END of shrekspam.py hope you enjoyed
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!
+Git hub: https://github.com/Basic-SkriptKiddie/ShrekSpam 
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!
 
